@@ -1,0 +1,27 @@
+body {
+background-size: cover;
+}
+.heading {
+width: 100%;
+}
+#status, #object_found {
+font-size: 18px;
+}
+canvas {
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+margin-top: 380px;
+}
+.note {
+color: black;
+}
+h5 {
+color: black;
+font-size: 23px;
+}
+input {
+width: 40%;
+height: 30px;
+text-align: left;
+border-radius: 5px;
+}
